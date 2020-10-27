@@ -1,7 +1,7 @@
 Package: RDRToolbox
 Type: Package
 Title: A package for nonlinear dimension reduction with Isomap and LLE.
-Version: 1.39.0
+Version: 1.40.0
 Date: 2019-01-22
 Author: Christoph Bartenhagen
 Maintainer: Christoph Bartenhagen <c.bartenhagen@uni-koeln.de>
